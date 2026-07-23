@@ -1,7 +1,30 @@
 aid: agzen
-name: Agzen
-description: Agzen is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: AgZen
+description: >-
+  AgZen is an MIT spinout building RealCoverage, a sensor- and AI-based system
+  that measures and controls how many droplets of crop-protection product land
+  on every leaf during agricultural spraying. A boom-mounted computer-vision
+  sensor analyzes spray coverage and droplet quality in real time and displays
+  actionable data on an in-cab tablet, automatically optimizing foliar sprays on
+  any sprayer as the operator drives. Growers use RealCoverage to cut chemical
+  and water use by up to 50% while maintaining or improving efficacy and yield,
+  with a typical payback in under a year. RealCoverage retrofits onto any
+  generation of sprayer and won Crop Protection Solution of the Year in 2025.
+  AgZen is headquartered at Greentown Labs in Somerville, Massachusetts and is
+  backed by DCVC Bio, Material Impact, Astanor Ventures, and Syngenta Group
+  Ventures.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static1.squarespace.com/static/617e036e63df88442ad668e1/t/65ee6c4abd6631610ac8b07e/1710124106538/AgZen_logoGRADIENT.png?format=1500w
 url: https://raw.githubusercontent.com/api-evangelist/agzen/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,9 +37,35 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Agriculture
+- AgTech
+- Precision Agriculture
+- Computer Vision
+- Artificial Intelligence
+- Crop Protection
+- Sensors
+- Sustainability
 apis: []
+common:
+- type: DomainSecurity
+  url: security/agzen-domain-security.yml
+- type: LLMsTxt
+  url: llms/agzen-llms.txt
+- type: Website
+  url: https://www.agzen.com/
+- type: About
+  url: https://www.agzen.com/agzen-aboutus
+- type: Careers
+  url: https://www.agzen.com/jobs
+- type: LinkedIn
+  url: https://www.linkedin.com/company/agzen
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

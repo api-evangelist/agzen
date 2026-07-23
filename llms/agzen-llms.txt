@@ -1,0 +1,27 @@
+# AgZen
+
+> AgZen is an MIT spinout building RealCoverage, a sensor- and AI-based system that measures and controls how many droplets of crop-protection product land on every leaf during agricultural spraying. A boom-mounted computer-vision sensor analyzes spray coverage and droplet quality in real time and displays actionable data on an in-cab tablet, automatically optimizing foliar sprays on any sprayer as the operator drives, cutting chemical and water use by up to 50%.
+
+AgZen is a physical ag-tech hardware and services company. As of this writing it publishes no public API, developer portal, OpenAPI specification, SDK, or MCP server; this llms.txt is generated from the API Evangelist catalog profile rather than a provider-published document.
+
+## Company
+
+- [Website](https://www.agzen.com/): AgZen homepage — RealCoverage droplet monitoring and optimization.
+- [What We Do](https://www.agzen.com/agzen-whatwedo): Product and technology overview.
+- [About Us](https://www.agzen.com/agzen-aboutus): Company background (MIT spinout, Greentown Labs, Somerville MA).
+- [Get a Quote](https://www.agzen.com/agzen-getquote): Sales inquiry for RealCoverage.
+- [Dealers](https://www.agzen.com/dealers): Dealer network.
+- [Careers](https://www.agzen.com/jobs): Open roles.
+- [LinkedIn](https://www.linkedin.com/company/agzen): Company page.
+
+## Product
+
+- RealCoverage: retrofit sensor + AI system that measures and controls spray droplet coverage on any sprayer in real time; up to 50% reduction in chemical and water use; Crop Protection Solution of the Year 2025.
+
+## Backing
+
+- Investors: DCVC Bio, Material Impact, Astanor Ventures, Syngenta Group Ventures.
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/agzen/refs/heads/main/apis.yml): API Evangelist network profile for AgZen.
