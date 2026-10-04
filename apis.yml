@@ -51,7 +51,7 @@ tags:
 - Agriculture
 - AgTech
 - Precision Agriculture
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Crop Protection
 - Sensors
@@ -66,6 +66,7 @@ tags_raw:
 - Crop Protection
 - Sensors
 - Sustainability
+- Computer-Vision
 apis: []
 common:
 - type: DomainSecurity
